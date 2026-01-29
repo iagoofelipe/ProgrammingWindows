@@ -1,0 +1,2 @@
+# Programming Windows
+Este projeto contém arquivos utilizados nos estudos do livro `Programming Windows - 5th Ed (Petzold)`. Todos os arquivos entry point possuem a referência do capítulo e seção do livro.
