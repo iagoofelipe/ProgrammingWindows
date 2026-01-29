@@ -9,7 +9,7 @@ Book Reference: Chapter 1, section Your First Windows Program
 int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance,
 	PSTR szCmdLine, int iCmdShow)
 {
-	int clicked = MessageBox(NULL, L"Hello, Windows with MAM�O UNICODE character!", L"HelloMsg", MB_YESNOCANCEL | MB_ICONQUESTION | MB_DEFBUTTON1);
+	int clicked = MessageBox(NULL, L"Hello, Windows with Ç, an UNICODE character!", L"HelloMsg", MB_YESNOCANCEL | MB_ICONQUESTION | MB_DEFBUTTON1);
 
 	switch (clicked)
 	{
